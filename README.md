@@ -26,7 +26,7 @@ By using GitHub’s @mention system in your pull request message, you can ask fo
 
 You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
 
-您甚至可以在自己的存储库中打开pull请求并自己合并它们。在进行大型项目之前，这是学习GitHub流程的好方法
+您甚至可以在自己的存储库中打开pull请求并自己合并它们。在进行大型项目之前，这是学习GitHub流程的
 
 
 test to pull a request~
